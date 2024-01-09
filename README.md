@@ -18,7 +18,7 @@ Always open to guidance and insights from experienced developers, particularly i
 My journey from nursing to tech, developing soft skills, or anything related to front-end development and the tech industry.
 
 #### 📫 How to reach me:
-Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/ferjuanb101/), or drop me an email at [your.email@example.com](mailto:fbatres@gmail.com).
+Feel free to connect with me on LinkedIn [here](https://www.linkedin.com/in/ferjuanb101/), or drop me an email at [fbatres@gmail.com](mailto:fbatres@gmail.com).
 
 #### 😄 Pronouns:
 He/Him
